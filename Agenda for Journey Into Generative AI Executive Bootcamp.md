@@ -52,4 +52,4 @@
 
 #### Demo Enterprise ChatGPT App
 
-![](copilot screenshot.png)
+![](.\copilot screenshot.png)

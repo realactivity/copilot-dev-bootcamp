@@ -3,11 +3,11 @@
 
 **Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
 
-**Schedule follow-up AI envisioning session with Paul Swider:** http://try.realactivity.ai
+**Schedule:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai
 
 **Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
 
-**PowerPoint Slides:** Download
+**PowerPoint Slides:** [Download](https://www.linkedin.com/smart-links/AQF3zmjJZyYikQ)
 
 **Notes:**
 
@@ -27,5 +27,5 @@
 
 **Demo App:**
 
-![Private Enterprise Chat and Copilot ](copilot screenshot.png)
+![Private Enterprise Chat and Copilot ](.\copilot screenshot.png)
 
