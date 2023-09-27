@@ -46,3 +46,10 @@
 - Defining Your Own Path Forward
 - How to leverage Microsoft’s Generative AI for your Strategic Goals
 - Building a Foundation for Success – AI culture checklist
+- Schedule complimentary envisioning session
+
+
+
+#### Demo Enterprise ChatGPT App
+
+![](copilot screenshot.png)

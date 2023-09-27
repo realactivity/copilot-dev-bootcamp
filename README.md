@@ -1,46 +1,31 @@
 # Journey Into Generative AI - Building Your Own Copilot
-Session links:
-
 ## Introduction
 
-Speaker: [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
+**Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
 
-schedule time: http://try.realactivity.ai
+**Schedule follow-up AI envisioning session with Paul Swider:** http://try.realactivity.ai
 
-Speaker: Shreyas Risbud
+**Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
 
-This presentation uses a combination of custom slides and also content and slides from Microsoft Inspire Sessions [BRK217H](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) and [KEYO2H](https://build.microsoft.com/en-US/sessions/bb8f9d99-0c47-404f-8212-a85fffd3a59d?source=sessions)
+**PowerPoint Slides:** Download
 
-We recommend using the [semantic-kernel Microsoft Learn site](https://learn.microsoft.com/en-us/semantic-kernel/overview/) for up to date information on copilot development.
+**Notes:**
 
-We recommend using the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
+- This AI bootcamp for executives and leadership uses a combination of custom slides for leaders and executives and technical content from Microsoft Inspire Sessions [BRK217H](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) and [KEYO2H](https://build.microsoft.com/en-US/sessions/bb8f9d99-0c47-404f-8212-a85fffd3a59d?source=sessions)
+- Follow the [semantic-kernel Microsoft Learn site](https://learn.microsoft.com/en-us/semantic-kernel/overview/) for up to date information on copilot development.
 
-## Copilot development architecture
+- Follow the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
+- Remember AI is evolving quickly, so check back often.
 
-#### [Azure AI Studio](https://oai.azure.com/)
+**Links mentioned in sessions:**
 
-​	Multi-model capabilities
+[Additional executive resources](Senior Executive Resources.md)
 
-#### Introduction to semantic-kernel
-​	Sample Apps and Patterns
-​	Demo of setup documentation
+[Additional technical resources](Technical Resources.md)
 
-#### Copilot Sample App Architecture
-​	[Chat front-end](https://learn.microsoft.com/en-us/semantic-kernel/chat-copilot/getting-started?tabs=Windows%2CPowershell) 
-​	WebAPI with Azure OpenAI
 
-#### Application State and Memories
 
-​	[What are memories?](https://learn.microsoft.com/en-us/semantic-kernel/memories/)
+**Demo App:**
 
-### Demo: Semantic-kernel Development Environment Setup
-​	[MS semantic-kernel](https://github.com/microsoft/semantic-kernel)
-
-​	[Instructions](https://github.com/microsoft/chat-copilot/blob/main/README.md) for setting up copilot sample app locally.
-
-​	[Node Front-End Setup](https://github.com/microsoft/chat-copilot/blob/main/webapp/README.md)
-
-[	Web API Setup](https://github.com/microsoft/chat-copilot/blob/main/webapi/README.md)
-
-​	Microsoft Learn Site with [step by step directions](https://learn.microsoft.com/en-us/semantic-kernel/chat-copilot/).
+![Private Enterprise Chat and Copilot ](copilot screenshot.png)
 
