@@ -19,13 +19,13 @@
 
 **Links mentioned in sessions:**
 
-[Additional executive resources](Senior Executive Resources.md)
+[Additional executive resources](./Senior Executive Resources.md)
 
-[Additional technical resources](Technical Resources.md)
+[Additional technical resources](./Technical Resources.md)
 
 
 
 **Demo App:**
 
-![Private Enterprise Chat and Copilot ](.\copilot screenshot.png)
+![Private Enterprise Chat and Copilot ](./copilot screenshot.png)
 
