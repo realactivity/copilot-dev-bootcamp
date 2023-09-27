@@ -27,5 +27,5 @@
 
 **Demo App:**
 
-![Private Enterprise Chat and Copilot ](./copilot screenshot.png)
+![Private Enterprise Chat and Copilot ](copilot screenshot.png)
 
