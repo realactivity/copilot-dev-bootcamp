@@ -1,6 +1,8 @@
 # Journey Into Generative AI - Building Your Own Copilot
 ## Introduction
 
+In this workshop, we will unfurl a meticulously crafted **checklist**, a treasure map guiding C-suite executives, board of directors, and staff through the meticulous preparation and deployment of generative AI technologies. Moreover, witness the prowess of **Copilot** in a live demo, showcasing a tangible manifestation of AI’s capabilities, providing a glimpse into the future where your decisions are empowered, operations streamlined, and customer interactions are revolutionized. Set sail with us, as we embark on a journey where technology and strategy converge, navigating through the currents and tides of AI, charting a course towards uncharted territories of endless possibilities.
+
 **Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
 
 **Schedule:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai

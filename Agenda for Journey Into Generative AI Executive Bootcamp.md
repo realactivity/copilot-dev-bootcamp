@@ -1,4 +1,15 @@
-## Agenda
+## Session Agenda
+
+- Strategic Alignment and Planning
+- Live Demo: Your Custom Copilot in Action
+- Deployment and Integration
+- Post-Deployment and Scaling
+- Stakeholder Management
+- Q&A
+
+
+
+## Follow-up Envisioning Session Agenda
 
 #### Beyond the Generative AI Hype. Pragmatic advice for IT Leaders
 

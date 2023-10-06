@@ -19,7 +19,7 @@ A sample checklist that C-suite executives can use to prepare organizations, boa
 -  Choose the right AI technology stack (e.g., Microsoft Azure OpenAI).
 -  Ensure scalability and flexibility of the chosen AI solutions.
 
-#### **Fostering Innovation**
+#### 4. **Fostering Innovation**
 
 - Innovation Labs:
   - Establish labs or spaces dedicated to experimentation and innovation in AI.
