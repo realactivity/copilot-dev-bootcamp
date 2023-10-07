@@ -17,22 +17,16 @@
 - Exploring the Strategic Benefits and Competitive Advantages
 - Real world use cases and early adopter stories
 
-
-
 #### Educating Stakeholders
 
 - How to Effectively Communicate the Significance of AI to your organization
 - Bridging the Knowledge Gap: Navigating Technical Jargon
 - Addressing governance and Security concerns
 
-
-
-#### Use case for a hospital
+#### Use case for a healthcare
 
 - Real-world insights into decision-making and deployment processes.
 - Building a AI Copilot for assisting in financial and HR tasks
-
-
 
 #### Implementing using Microsoft Copilot Stack
 
@@ -41,8 +35,6 @@
 - What do you need and how much it costs
 - Ensuring Security and Compliance
 
-
-
 #### Interactive Demo and Q&A
 
 - Addressing Concerns and Queries, e.g., security & governance
@@ -50,17 +42,17 @@
 - Considering other AI technology, Hugging face, vector database and embeddings
 - A live demonstration of a real development environment, featuring tools like semantic-kernel, Visual Studio, and VS Code.
 
-
-
 #### Next Steps and Actionable Takeaways
 
 - Defining Your Own Path Forward
 - How to leverage Microsoft’s Generative AI for your Strategic Goals
 - Building a Foundation for Success – AI culture checklist
-- Schedule complimentary envisioning session
+- [Schedule complimentary envisioning session now](https://calendly.com/paulswider/15min?back=1)
 
 
 
 #### Demo Enterprise ChatGPT App
 
-![](.\copilot screenshot.png)
+![](.\copilot-screenshot.png)
+
+Copyright (c) RealActivity. All rights reserved.

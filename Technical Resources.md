@@ -29,3 +29,7 @@
 [	Web API Setup](https://github.com/microsoft/chat-copilot/blob/main/webapi/README.md)
 
 ​	Microsoft Learn Site with [step by step directions](https://learn.microsoft.com/en-us/semantic-kernel/chat-copilot/).
+
+
+
+Copyright (c) RealActivity. All rights reserved.
