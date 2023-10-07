@@ -19,12 +19,6 @@ In this workshop, we will unfurl a meticulously crafted **checklist**, a treasur
 - Follow the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
 - Remember AI is evolving quickly, so check back often.
 
-**Links mentioned in sessions:**
-
-[Additional executive resources](./Senior Executive Resources.md)
-
-[Additional technical resources](./Technical Resources.md)
-
 
 
 **Demo App:**
