@@ -23,7 +23,7 @@ This GitHub repository by RealActivity serves as a comprehensive guide and resou
 
 **Demo App:**
 
-![Private Enterprise Chat and Copilot ](copilotscreenshot.png)
+![Private Enterprise Chat and Copilot ](copilot-screenshot.png)
 
 
 
