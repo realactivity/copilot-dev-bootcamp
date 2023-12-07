@@ -19,7 +19,19 @@ This GitHub repository by RealActivity serves as a comprehensive guide and resou
 - Follow the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
 - Remember AI is evolving quickly, so check back often.
 
+**Github repos:**
 
+[Sematic-kernel](https://github.com/microsoft/semantic-kernel)
+
+[Azure](https://github.com/microsoft/azurechat)[ ](https://github.com/microsoft/azurechat)[Cha](https://github.com/microsoft/azurechat)[t](https://github.com/microsoft/azurechat)
+
+[Chat with your data](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-the-chat-with-your-data-solution-accelerator-now/ba-p/3958979)
+
+Prompt orchestration
+
+​	[Langchain](https://www.langchain.com/) and [Prompt Flow](https://github.com/microsoft/promptflow)
+
+[Autogen](https://github.com/microsoft/autogen)[ and multi-agent](https://github.com/microsoft/autogen)
 
 **Demo App:**
 

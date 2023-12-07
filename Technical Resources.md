@@ -6,13 +6,21 @@
 
 #### Introduction to semantic-kernel
 
-​	Sample Apps and Patterns
-​	Demo of setup documentation
+[Sematic-kernel](https://github.com/microsoft/semantic-kernel)
+
+[Azure](https://github.com/microsoft/azurechat)[ ](https://github.com/microsoft/azurechat)[Cha](https://github.com/microsoft/azurechat)[t](https://github.com/microsoft/azurechat)
+
+[Chat with your data](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-the-chat-with-your-data-solution-accelerator-now/ba-p/3958979)
+
+Prompt orchestration
+
+[Langchain](https://www.langchain.com/) and [Prompt Flow](https://github.com/microsoft/promptflow)
+
+[Autogen](https://github.com/microsoft/autogen)[ and multi-agent](https://github.com/microsoft/autogen)
 
 #### Copilot Sample App Architecture
 
 ​	[Chat front-end](https://learn.microsoft.com/en-us/semantic-kernel/chat-copilot/getting-started?tabs=Windows%2CPowershell) 
-​	WebAPI with Azure OpenAI
 
 #### Application State and Memories
 
