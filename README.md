@@ -1,7 +1,11 @@
 # Journey Into Generative AI - Building Your Own Copilot
 ## Introduction
 
-This GitHub repository by RealActivity serves as a comprehensive guide and resource hub for diving into modern AI and intelligent apps. The workshop, led by Paul Swider, is designed to navigate C-suite executives, board directors, and staff through the intricate process of preparing and deploying generative AI technologies. It provides a checklist that acts as a strategic guide through this technological journey, alongside a live demo of Copilot, showcasing tangible AI capabilities. The repository includes a detailed agenda for the Southeast Asia Autumn 2023 workshop, covering locations like Manila, Kuala Lumpur, and Singapore, and also provides downloadable PowerPoint slides. Additional resources and links for both executive and technical audiences are provided, ensuring a well-rounded understanding and application of the knowledge shared. The bootcamp blends custom slides for leaders with technical content from specific Microsoft Inspire Sessions and encourages participants to stay abreast of the rapidly evolving field of AI by following various platforms and sites dedicated to Copilot and LLM development.
+This GitHub repository by RealActivity serves as a comprehensive guide and resource hub for diving into modern AI and intelligent apps. The workshop, led by Paul Swider, is designed to navigate C-suite executives, board directors, and staff through the intricate process of preparing and deploying generative AI technologies. It provides a checklist that acts as a strategic guide through this technological journey, alongside a live demo of Copilot, showcasing tangible AI capabilities. 
+
+The repository includes a detailed agenda for the Southeast Asia Autumn 2023 workshop, covering locations like Manila, Kuala Lumpur, and Singapore, and also provides downloadable PowerPoint slides. Additional resources and links for both executive and technical audiences are provided, ensuring a well-rounded understanding and application of the knowledge shared. 
+
+The [Boston Code Camp technical resources](TechnicalResources.md) are from Pauls presentation on using semantic-kernel to build an entrprise Copilot.
 
 **Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
 
@@ -23,7 +27,7 @@ Technical resources for [Boston Code Camp 2024](TechnicalResources.md)
 
 **Demo App:**
 
-![Private Enterprise Chat and Copilot ](copilot-screenshot.png)
+![Private Enterprise Chat and Copilot ](wip-ui.png)
 
 
 
