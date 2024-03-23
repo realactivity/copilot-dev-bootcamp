@@ -2,7 +2,7 @@
 
 #### Azure AI Portals
 
-[Azure AI Studio](https://oai.azure.com/)
+[Azure AI Studio](https://ai.azure.com/)
 
 [Open AI Studio](https://oai.azure.com/)
 
