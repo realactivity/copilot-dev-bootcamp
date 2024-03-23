@@ -1,11 +1,13 @@
 # Journey Into Generative AI - Building Your Own Copilot
 ## Introduction
 
-This GitHub repository by RealActivity serves as a comprehensive guide and resource hub for diving into Generative AI and building your own Copilot. The workshop, led by Paul Swider, is designed to navigate C-suite executives, board directors, and staff through the intricate process of preparing and deploying generative AI technologies. It provides a checklist that acts as a strategic guide through this technological journey, alongside a live demo of Copilot, showcasing tangible AI capabilities. The repository includes a detailed agenda for the Southeast Asia Autumn 2023 workshop, covering locations like Manila, Kuala Lumpur, and Singapore, and also provides downloadable PowerPoint slides. Additional resources and links for both executive and technical audiences are provided, ensuring a well-rounded understanding and application of the knowledge shared. The bootcamp blends custom slides for leaders with technical content from specific Microsoft Inspire Sessions and encourages participants to stay abreast of the rapidly evolving field of AI by following various platforms and sites dedicated to Copilot and LLM development.
+This GitHub repository by RealActivity serves as a comprehensive guide and resource hub for diving into modern AI and intelligent apps. The workshop, led by Paul Swider, is designed to navigate C-suite executives, board directors, and staff through the intricate process of preparing and deploying generative AI technologies. It provides a checklist that acts as a strategic guide through this technological journey, alongside a live demo of Copilot, showcasing tangible AI capabilities. The repository includes a detailed agenda for the Southeast Asia Autumn 2023 workshop, covering locations like Manila, Kuala Lumpur, and Singapore, and also provides downloadable PowerPoint slides. Additional resources and links for both executive and technical audiences are provided, ensuring a well-rounded understanding and application of the knowledge shared. The bootcamp blends custom slides for leaders with technical content from specific Microsoft Inspire Sessions and encourages participants to stay abreast of the rapidly evolving field of AI by following various platforms and sites dedicated to Copilot and LLM development.
 
 **Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
 
-**Schedule:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai
+**Schedule meeting:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai
+
+Technical resources for [Boston Code Camp 2024](Technical Resources.md)
 
 **Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
 
@@ -18,20 +20,6 @@ This GitHub repository by RealActivity serves as a comprehensive guide and resou
 
 - Follow the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
 - Remember AI is evolving quickly, so check back often.
-
-**Github repos:**
-
-[Sematic-kernel](https://github.com/microsoft/semantic-kernel)
-
-[Azure](https://github.com/microsoft/azurechat)[ ](https://github.com/microsoft/azurechat)[Cha](https://github.com/microsoft/azurechat)[t](https://github.com/microsoft/azurechat)
-
-[Chat with your data](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/introducing-the-chat-with-your-data-solution-accelerator-now/ba-p/3958979)
-
-Prompt orchestration
-
-​	[Langchain](https://www.langchain.com/) and [Prompt Flow](https://github.com/microsoft/promptflow)
-
-[Autogen](https://github.com/microsoft/autogen)[ and multi-agent](https://github.com/microsoft/autogen)
 
 **Demo App:**
 
