@@ -13,9 +13,11 @@ The [Boston Code Camp technical resources](TechnicalResources.md) are from Pauls
 
 Technical resources for [Boston Code Camp 2024](TechnicalResources.md)
 
+**Boston Code Camp** [PowerPoint Slides](https://www.linkedin.com/smart-links/AQHBIJBr_tzZcQ)
+
 **Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
 
-**PowerPoint Slides:** [Download](https://www.linkedin.com/smart-links/AQF3zmjJZyYikQ)
+**SE Asia PowerPoint Slides:** [Download](https://www.linkedin.com/smart-links/AQF3zmjJZyYikQ)
 
 **Notes:**
 
