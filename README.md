@@ -7,7 +7,7 @@ This GitHub repository by RealActivity serves as a comprehensive guide and resou
 
 **Schedule meeting:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai
 
-Technical resources for [Boston Code Camp 2024](..\technical%20resource.md)
+Technical resources for [Boston Code Camp 2024](technical%20resource.md)
 
 **Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
 
