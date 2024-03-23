@@ -1,8 +1,12 @@
 ## Copilot development architecture
 
-#### [Azure AI Studio](https://oai.azure.com/)
+#### Azure AI
 
-​	Multi-model capabilities
+[Azure AI Studio](https://oai.azure.com/)
+
+[Open AI Studio](https://oai.azure.com/)
+
+[Miyagi Azure Sample](https://github.com/Azure-Samples/miyagi)
 
 #### Introduction to semantic-kernel
 
