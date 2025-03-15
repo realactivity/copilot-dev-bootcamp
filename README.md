@@ -16,7 +16,7 @@ Welcome to RealActivity's comprehensive guide and resource hub designed to empow
 **Quick Links:**
 
 - [From Code to Intelligence – Building NextGen AI Agents](nextgenagents.md)
-- [Technical Resources](technicalresources.md)
+- [Technical Resources](TechnicalResources.md)
 - Paul Swider – [Technical Accomplishments](bio.md)
 
 > *"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."*
