@@ -1,36 +1,41 @@
-# Journey into Microsoft Enterprise AI
+# **Generative AI & Agent Orchestration for Healthcare**
 
-Welcome to RealActivity's comprehensive guide and resource hub designed to empower executives, developers, and architects with the knowledge and tools needed to strategically implement generative AI and build advanced Copilots tailored for enterprise use.
+##### *Guidance, Tools, and Resources for Technical Executives and Developers*
 
-**Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/), Chief AI Officer, RealActivity.
+Welcome to RealActivity's comprehensive guide and resource hub designed to empower executives, developers, and architects with the knowledge and tools needed to strategically implement generative AI and build advanced Copilots tailored for enterprise use. The purpose of the content is to demystify enterprise AI in healthcare with zero hype.
 
-[Schedule a complimentary AI envisioning session](http://try.realactivity.ai)
+## Upcoming Session Details
 
----
+**Event:** [Boston Code Camp 38](https://www.bostoncodecamp.com/CC38/info)
+**Format:** In-person technical presentation
+**Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents
+**Prerequisites:** Basic understanding of AI concepts and programming fundamentals
+**Speaker:** [Paul Swider](https://sessionize.com/pswider/), Chief AI Officer, RealActivity
+**Location:** Boston, Massachusetts, United States
 
-## 📌 What's Included
+**Quick Links:**
 
-### 📘 Most Recent Content
+- [From Code to Intelligence – Building NextGen AI Agents](Paul Swider - Technical Accomplishments.md)
+- Technical Resources
+- Paul Swider – Technical Accomplishments
 
-- [**From Code to Intelligence – Building NextGen AI Agents**](From%20Code%20to%20Intelligence%20–%20Building%20NextGen%20AI%20Agents.md): Developer-focused session on creating adaptive AI agents using Microsoft’s Semantic Kernel.
+> *"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."*
 
-- [**Technical Accomplishments of Paul Swider**](Paul%20Swider%20-%20Technical%20Accomplishments.md): Overview of Paul Swider’s key technical achievements and experience.
+Welcome to a comprehensive resource hub empowering healthcare technology leaders with strategic knowledge and practical tools for implementing generative AI, Copilots, and advanced Agents in enterprise healthcare applications.
 
----
+**Paul Swider** | Chief AI Officer, RealActivity
 
-## 📚 Additional Resources (Archived)
+With over 25 years dedicated to healthcare technology innovation, Paul's extensive experience includes leading Y2K healthcare compliance projects (1998) and pioneering one of the earliest mission-critical AI applications for same-day surgery triage (2001), integrating insights from Dr. Michael Roizen with Microsoft technology.
 
-- [Senior Executive Resources](Senior%20Executive%20Resources.md): Checklist for executives preparing organizations for generative AI deployment.
-- [Agenda for Executive AI Bootcamp](Agenda%20for%20Journey%20Into%20Generative%20AI%20Executive%20Bootcamp.md): Comprehensive session agenda for executives.
-- [PowerPoint Slides for Executives](PowerPoint%20-%20The%20Executives%20Journey%20into%20Generative%20AI.md): Strategic framework for AI integration.
-- [Technical Resources](TechnicalResources.md): Resources from Boston Code Camp on enterprise Copilot development.
+**Recognition:**
 
----
+- 🏆 Azure MVP (2019)
 
-## 🛠️ Key Resources
-- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
-- [LangChain](https://www.langchain.com/)
-- [Microsoft AutoGen](https://github.com/microsoft/autogen)
+- 🏆 Azure Most Influential (2020)
+
+- 🏆 Founder, Boston Healthcare Cloud and AI Community (2020)
+
+  
 
 ---
 
