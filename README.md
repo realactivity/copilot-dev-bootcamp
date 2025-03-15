@@ -1,36 +1,44 @@
-# Journey Into Generative AI - Building Your Own Copilot
-## Introduction
+# Journey into Microsoft Enterprise AI
 
-This GitHub repository by RealActivity serves as a comprehensive guide and resource hub for diving into modern AI and intelligent apps. The workshop, led by Paul Swider, is designed to navigate C-suite executives, board directors, and staff through the intricate process of preparing and deploying generative AI technologies. It provides a checklist that acts as a strategic guide through this technological journey, alongside a live demo of Copilot, showcasing tangible AI capabilities. 
+Welcome to RealActivity's comprehensive guide and resource hub designed to empower executives, developers, and architects with the knowledge and tools needed to strategically implement generative AI and build advanced Copilots tailored for enterprise use.
 
-The repository includes a detailed agenda for the Southeast Asia Autumn 2023 workshop, covering locations like Manila, Kuala Lumpur, and Singapore, and also provides downloadable PowerPoint slides. Additional resources and links for both executive and technical audiences are provided, ensuring a well-rounded understanding and application of the knowledge shared. 
+**Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/), Chief AI Officer, RealActivity.
 
-The [Boston Code Camp technical resources](TechnicalResources.md) are from Pauls presentation on using semantic-kernel to build an entrprise Copilot.
+[Schedule a complimentary AI envisioning session](http://try.realactivity.ai)
 
-**Speaker:** [Paul Swider](https://www.linkedin.com/in/pswider/) email: pswider@realactivity.com
+---
 
-**Schedule meeting:** Follow-up AI envisioning session with Paul Swider http://try.realactivity.ai
+## 📌 What's Included
 
-Technical resources for [Boston Code Camp 2024](TechnicalResources.md)
+### 📘 Most Recent Content
 
-**Boston Code Camp** [PowerPoint Slides](https://www.linkedin.com/smart-links/AQHBIJBr_tzZcQ)
+- [**From Code to Intelligence – Building NextGen AI Agents**](From%20Code%20to%20Intelligence%20–%20Building%20NextGen%20AI%20Agents.md): Developer-focused session on creating adaptive AI agents using Microsoft’s Semantic Kernel.
 
-**Agenda for Southeast Asia Autumn 2023:** [Manila, Kuala Lumpur and Singapore]([Get the agenda for Southeast Asia Autumn 2023](Agenda for Journey Into Generative AI Executive Bootcamp.md). Manila, Kuala Lumpur and Singapore.md)
+- [**Technical Accomplishments of Paul Swider**](Paul%20Swider%20-%20Technical%20Accomplishments.md): Overview of Paul Swider’s key technical achievements and experience.
 
-**SE Asia PowerPoint Slides:** [Download](https://www.linkedin.com/smart-links/AQF3zmjJZyYikQ)
+---
 
-**Notes:**
+## 📚 Additional Resources (Archived)
 
-- This AI bootcamp for executives and leadership uses a combination of custom slides for leaders and executives and technical content from Microsoft Inspire Sessions [BRK217H](https://build.microsoft.com/en-US/sessions/31e11443-70d3-4020-8c8c-0a654bccd233?source=sessions) and [KEYO2H](https://build.microsoft.com/en-US/sessions/bb8f9d99-0c47-404f-8212-a85fffd3a59d?source=sessions)
-- Follow the [semantic-kernel Microsoft Learn site](https://learn.microsoft.com/en-us/semantic-kernel/overview/) for up to date information on copilot development.
+- [Senior Executive Resources](Senior%20Executive%20Resources.md): Checklist for executives preparing organizations for generative AI deployment.
+- [Agenda for Executive AI Bootcamp](Agenda%20for%20Journey%20Into%20Generative%20AI%20Executive%20Bootcamp.md): Comprehensive session agenda for executives.
+- [PowerPoint Slides for Executives](PowerPoint%20-%20The%20Executives%20Journey%20into%20Generative%20AI.md): Strategic framework for AI integration.
+- [Technical Resources](TechnicalResources.md): Resources from Boston Code Camp on enterprise Copilot development.
 
-- Follow the [LangChain](https://docs.langchain.com/docs/)  and [Hugging Face](https://huggingface.co/) site to stay up to date on all things related to LLM development.
-- Remember AI is evolving quickly, so check back often.
+---
 
-**Demo App:**
+## 🛠️ Key Resources
+- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- [LangChain](https://www.langchain.com/)
+- [Microsoft AutoGen](https://github.com/microsoft/autogen)
 
-![Private Enterprise Chat and Copilot ](wip-ui.png)
+---
 
+## 📅 Schedule 15-minutes with me.
+Ready to advance your AI initiatives?
 
+➡️ [Schedule your complimentary follow-up session](http://try.realactivity.ai)
+
+---
 
 Copyright (c) RealActivity. All rights reserved.
