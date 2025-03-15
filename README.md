@@ -15,7 +15,7 @@ Welcome to RealActivity's comprehensive guide and resource hub designed to empow
 
 **Quick Links:**
 
-- [From Code to Intelligence – Building NextGen AI Agents](Paul Swider - Technical Accomplishments.md)
+- [From Code to Intelligence – Building NextGen AI Agents](nextgenagents.md)
 - Technical Resources
 - Paul Swider – Technical Accomplishments
 
