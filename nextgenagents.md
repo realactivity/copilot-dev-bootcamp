@@ -18,9 +18,11 @@ A technology leader with over 25 years of experience, specializing in healthcare
 
 As founder of the Boston Healthcare Cloud and AI Community (2020), I've dedicated my career to advancing AI and cloud solutions for healthcare. My work has been recognized with Microsoft's Azure MVP (2019) and Azure Most Influential (2020) awards.
 
-**Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+**Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/pswider)
 
-[Technical Accomplishments:](Paul Swider - Technical Accomplishments.md)
+[Technical Accomplishments:](bio.md)
+
+[My Substack](https://substack.com/@pauljswider) (great enterprise AI agent content)
 
 
 
@@ -68,19 +70,19 @@ Learn how to leverage cutting-edge research in your applications:
 
 ### Presentation Materials
 
-- [Session Slides](https://www.perplexity.ai/search/i-am-presenting-this-session-f-zZfGywHHTn.03fBmpjfbQg#) *(Will be updated after the presentation)*
-- [Code Samples Repository](https://www.perplexity.ai/search/i-am-presenting-this-session-f-zZfGywHHTn.03fBmpjfbQg#) *(Will be updated after the presentation)*
+- [Session Slides]() *(Will be updated after the presentation)*
+- [Code Samples Repository]() *(Will be updated after the presentation)*
 
 ### Further Learning
 
 - [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Microsoft AutoGen Project](https://microsoft.github.io/autogen/)
-- [Boston Healthcare Cloud and AI Community Resources](https://www.perplexity.ai/search/i-am-presenting-this-session-f-zZfGywHHTn.03fBmpjfbQg#)
+- [Boston Healthcare Cloud and AI Community Resources]()
 
 ### Previous Related Sessions
 
 - Introduction to Semantic Kernel (Boston Code Camp 34)
-- [Recording/Materials from previous sessions](https://www.perplexity.ai/search/i-am-presenting-this-session-f-zZfGywHHTn.03fBmpjfbQg#)
+- [Recording/Materials from previous sessions](BuildingYourOwnCopilot-archive.md)
 
 ### Questions & Feedback
 
@@ -91,4 +93,4 @@ Have questions before or after the session? Want to discuss implementation detai
 - [Twitter](https://www.twitter.com/pswider)
 - [LinkedIn](https://www.linkedin.com/in/pswider)
 - [Blog](https://www.paulswider.com)
-- [Company](https://www.realactivity.com)
+- [Company](https://www.realactivity.ai)
