@@ -36,7 +36,13 @@ With over 25 years dedicated to healthcare technology innovation, Paul's extensi
 
 - 🏆 Founder, Boston Healthcare Cloud and AI Community (2020)
 
-  
+
+**connect:**
+
+- [Twitter](https://www.twitter.com/pswider)
+- [LinkedIn](https://www.linkedin.com/in/pswider)
+- [Blog](https://www.paulswider.com)
+- [Company](https://www.realactivity.ai)
 
 ---
 

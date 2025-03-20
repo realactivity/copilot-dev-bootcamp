@@ -17,3 +17,12 @@ For over two decades, I've dedicated my career to architecting innovative AI-dri
 - **🏅 2019-2020:** Earned multiple enterprise certifications from Microsoft, including Azure MVP (2019) and Azure Most Influential (2020).
 - **🧠 Present:** Chief AI Officer & Philanthropy Lead at RealActivity, a Microsoft Founders Hub Level 4 member, dedicated to ethical, secure, transformative AI solutions.
 - **🎤 Speaker:** Global speaker, ranked in Microsoft's top 3% on Sessionize, with presentations across 115+ countries.
+
+
+
+**connect:**
+
+- [Twitter](https://www.twitter.com/pswider)
+- [LinkedIn](https://www.linkedin.com/in/pswider)
+- [Blog](https://www.paulswider.com)
+- [Company](https://www.realactivity.ai)
