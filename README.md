@@ -1,4 +1,4 @@
-# **Generative AI & Agent Orchestration for Healthcare**
+# **Semantic Kernel & Azure Agent Orchestration for Healthcare**
 
 ##### *Guidance, Tools, and Resources for Technical Executives and Developers*
 
@@ -7,6 +7,7 @@ Welcome to RealActivity's comprehensive guide and resource hub designed to empow
 ## Upcoming Session Details
 
 **Event:** [Boston Code Camp 38](https://www.bostoncodecamp.com/CC38/info)
+**Session Title: **From Code to Intelligence – Building NextGen AI Agents
 **Format:** In-person technical presentation
 **Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents
 **Prerequisites:** Basic understanding of AI concepts and programming fundamentals
@@ -15,7 +16,7 @@ Welcome to RealActivity's comprehensive guide and resource hub designed to empow
 
 **Quick Links:**
 
-- [From Code to Intelligence – Building NextGen AI Agents](nextgenagents.md)
+- Session Resources - [From Code to Intelligence – Building NextGen AI Agents](nextgenagents.md)
 - [Technical Resources](TechnicalResources.md)
 - Paul Swider - [My AI Agent Substack](https://substack.com/@pauljswider)
 - Paul Swider – [Technical Accomplishments](bio.md)
