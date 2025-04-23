@@ -5,8 +5,6 @@ As a hands-on enterprise developer, I’ll take you on a fast, code-first tour o
 ## Session Details
 **Event Tickets:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
 
-**Session Details:** [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
-
 **Format:** In-person technical half-day workshop
 
 **Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents

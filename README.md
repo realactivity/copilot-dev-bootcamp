@@ -4,10 +4,10 @@
 
 ## Welcome to RealActivity’s AI Playbook for Mission-Critical Healthcare
 
-This repo is your launchpad for designing **mission-critical Copilots and agentic workflows** that can thrive inside the regulatory, security, and reliability demands of modern healthcare systems. Curated by RealActivity’s engineering team, these resources give technical leaders—CIOs, chief architects, staff engineers, and DevOps pros—the patterns, reference code, and governance checklists required to turn generative AI from proof-of-concept into production-grade clinical and operational solutions.
+This repo is your launchpad for designing **mission-critical Copilots and agentic workflows** that can thrive inside the regulatory, security, and reliability demands of modern healthcare systems. Curated by [RealActivity’s engineering team](https://realactivity.ai/), these resources give technical leaders—CIOs, chief architects, staff engineers, and DevOps pros—the patterns, reference code, and governance checklists required to turn generative AI from proof-of-concept into production-grade clinical and operational solutions.
 
 * **Enterprise-First Lens.** Every sample, white-paper, and script is stress-tested against the realities of HIPAA, CMS compliance, and hospital-scale infrastructure.  
-* **Demystify Agentic AI.** Deep-dive articles (see the Substack link) break down planning, tool-calling, RAG, and multi-agent orchestration without the buzzword fog.  
+* **Demystify Agentic AI.** Deep-dive articles ([see the Substack link](https://substack.com/@pauljswider)) break down planning, tool-calling, RAG, and multi-agent orchestration without the buzzword fog.  
 * **Build & Benchmark.** Hands-on labs show how to wire up Semantic Kernel, Azure AI Agent Service, and SQL-backed memory so your Copilot can handle real-world load and latency targets.  
 
 > **Pro Tip:** Aim your favorite LLM at this repo—let it ingest the patterns, then come to the workshop ready to debate architecture choices with data in hand.
@@ -32,18 +32,18 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 **Location:** Boston, Massachusetts, United States
 
-### **Quick Links:**
-
-- ***[5/1/2025 AI Agent pre-workshop setup and preparation](reporundown.md )*** 
+### **Quick Links**
 
 - Session Details and Setup - [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
+  - ***[5/1/2025 AI agent repo rundown, lab setups and preparation](reporundown.md )*** 
+
 - Paul Swider - [AI Brief for Healthcare Leadership - Substack](https://substack.com/@pauljswider)
 - Paul Swider - [AI Brief for Health Executives - LinkedIn]([(18) LinkedIn](https://www.linkedin.com/newsletters/ai-brief-for-health-executives-6982384712858140672/))
 - Paul Swider – [Technical Accomplishments](bio.md)
 
 > *"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."*
 
-### **Say Hi:**
+### **Say Hi**
 
 - [X](https://www.twitter.com/pswider)
 - [Bluesky](https://bsky.app/profile/paulswider.bsky.social))
@@ -53,7 +53,7 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 ---
 
-📅 Schedule 15-minutes with me. ➡️ [Schedule your complimentary follow-up session](http://try.realactivity.ai)
+📅 [Schedule 15-minutes with me](http://try.realactivity.ai)
 
 ---
 
