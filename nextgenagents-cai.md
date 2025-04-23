@@ -39,17 +39,25 @@ As founder of the Boston Healthcare Cloud and AI Community (2020), I've dedicate
 
 ## What You'll Learn
 
-- #### Understanding Agentic AI Architecture
+### Workshop Agenda
 
-- #### Orchestrating AI with Semantic-Aware Functions
+#####  From Code to Intelligence – Building Next-Gen AI Agents
 
-- #### Managing Semantic App State
+######  Main Room (Abigail Adams / Horace Mann), Thursday • May 1 2025 • 1:00 – 4:00 PM ET
 
-- #### Applying Microsoft Research Insights
-
-- #### Production Patterns
-
-
+| Time (ET)          | Segment                                         | Format             | Key Take-Aways & Repo Mapping                                |
+| ------------------ | ----------------------------------------------- | ------------------ | ------------------------------------------------------------ |
+| **1:00 – 1:10 PM** | **Welcome & Goals**                             | Slides             | Why agentic AI matters for the enterprise; room logistics; pointer to setup guide in Bootcamp repo [GitHub](https://github.com/realactivity/copilot-dev-bootcamp/blob/main/nextgenagents-cai.md) |
+| **1:10 – 1:35 PM** | Demystifying AI Agents                          | Talk + demo        | Agent lifecycle, patterns (tool use, planning, metacognition) using *AI Agents for Beginners* Lessons 1-3 |
+| **1:35 – 1:55 PM** | Architecture Deep-Dive                          | Live coding        | How Semantic Kernel, Azure AI Agent Service, and AutoGen mesh; quick tool-calling demo |
+| **1:55 – 2:25 PM** | **Lab 1 – Build Your First Agent**              | Hands-on           | Fork *ai-agents-for-beginners*; complete Lesson 1 and add a custom tool (Python) |
+| **2:25 – 2:35 PM** | Break / Open Q&A                                | —                  | Stretch, troubleshoot, share wins                            |
+| **2:35 – 2:50 PM** | Semantic-Aware Functions in C#                  | Talk + live coding | Walk through *ai-developer* Challenge 02; intro to auto-planner basics |
+| **2:50 – 3:15 PM** | **Lab 2 – Plugins & Planning**                  | Hands-on           | Complete Challenge 03; wire an OpenAPI plugin, then test auto-calling (C#) |
+| **3:15 – 3:25 PM** | Memory & RAG for Agents                         | Talk + demo        | Short- vs. long-term state, embeddings, grounding; preview *Azure AI Agents Labs* RAG notebook |
+| **3:25 – 3:45 PM** | **Lab 3 – Agentic RAG \*or\* Multi-Agent Chat** | Hands-on           | Choose: Lesson 5 (RAG) *or* Lesson 8 (Multi-Agent) from *ai-agents-for-beginners*; optional Alt-path with *Agent Innovator Lab* notebooks |
+| **3:45 – 3:55 PM** | Production & Responsible AI                     | Slides             | Content filters, eval harnesses, observability; patterns from Magnetic-One & Bootcamp notes [GitHub](https://github.com/realactivity/copilot-dev-bootcamp/blob/main/nextgenagents-cai.md) |
+| **3:55 – 4:00 PM** | Wrap-Up & Next Steps                            | Discussion         | Share GitHub starter branch, slides, Discord link, feedback QR |
 
 ## Resources
 
