@@ -12,19 +12,25 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 > **Pro Tip:** Aim your favorite LLM at this repo—let it ingest the patterns, then come to the workshop ready to debate architecture choices with data in hand.
 
-Happy building, and here’s to safer, smarter healthcare software.
+*"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."* -pswider
 
 ## Upcoming Workshops and Conference Sessions
 
-**Event Tickets:** [AI Community Conference - Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
-**Session Details: **[From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
+**Event Tickets:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
+
+**Session Details:** [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
+
 **Format:** In-person technical half-day workshop
+
 **Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents
+
 **Prerequisites:** Basic understanding of AI concepts and programming fundamentals
+
 **Speaker:** [Paul Swider](https://sessionize.com/pswider/), Chief AI Officer, RealActivity
+
 **Location:** Boston, Massachusetts, United States
 
-**Quick Links:**
+### **Quick Links:**
 
 - ***[5/1/2025 AI Agent pre-workshop setup and preparation](reporundown.md )*** 
 
@@ -35,7 +41,7 @@ Happy building, and here’s to safer, smarter healthcare software.
 
 > *"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."*
 
-**Say Hi:**
+### **Say Hi:**
 
 - [X](https://www.twitter.com/pswider)
 - [Bluesky](https://bsky.app/profile/paulswider.bsky.social))
