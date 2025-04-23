@@ -70,6 +70,7 @@ Learn how to leverage cutting-edge research in your applications:
 
 ### Presentation Materials
 
+- Pre-workshop Setup Instructions
 - [Session Slides]() *(Will be updated after the presentation)*
 - [Code Samples Repository]() *(Will be updated after the presentation)*
 
