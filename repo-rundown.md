@@ -1,6 +1,6 @@
 ## Repo Rundown
 
-We’ll be coding against two freshly minted Microsoft repos that showcase the same agentic patterns from two angles:
+During the labs we’ll be coding against two freshly minted Microsoft repos that showcase the same agentic patterns from two angles:
 
 - **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** – a Python-first tour of tool-calling, planning, and RAG that lets us peek under the hood with minimal boilerplate. 
 - **[AI Developer (Semantic Kernel)](https://github.com/microsoft/ai-developer)** – a C# re-take that layers the same concepts onto .NET and enterprise-ready SK primitives. 
@@ -44,3 +44,25 @@ By running the labs in **both** repos you’ll see identical agent workflows exp
 >  • Problems? Ping the **#agents-workshop** channel in Azure AI Community Discord.
 
 That’s it—you’re ready to code when the workshop clock starts!
+
+### Workshop Research and Advanced Reading- New for 2025
+
+- [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+- [Microsoft AutoGen Project](https://microsoft.github.io/autogen/)
+
+- [Boston Healthcare Cloud and AI Community Resources]()
+
+- **AI Agents for Beginners** – https://github.com/microsoft/ai-agents-for-beginners offers a 10-lesson, clone-and-run curriculum that walks you from first prompt to multi-agent RAG patterns, making it the fastest on-ramp to Microsoft-flavoured enterprise agents. [GitHub](https://github.com/microsoft/ai-agents-for-beginners/blob/main/README.md)
+
+- **Generative AI for Beginners (.NET)** – https://github.com/microsoft/Generative-AI-for-beginners-dotnet distills hands-on C# examples and MCP/Semantic-Kernel integrations into bite-sized lessons so .NET developers can embed LLM power without leaving their comfort zone. [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/blob/main/README.md)
+
+  **AI Agents Hackathon** – https://github.com/microsoft/AI_Agents_Hackathon bundles slides, code starters, and session replays from Microsoft’s three-week virtual hack, giving you community-tested blueprints (and prize-winning ideas) for building production-ready agents. [GitHub](https://github.com/microsoft/AI_Agents_Hackathon/blob/main/README.md)
+
+  **Magma** – https://github.com/microsoft/Magma open-sources Microsoft Research’s multimodal foundation model that lets agents see, plan, and act across images, video, and text—crucial for the next wave of perceptive enterprise agents. [GitHub](https://github.com/microsoft/Magma)
+
+  **AI Developer (Semantic Kernel Fundamentals)** – https://github.com/microsoft/ai-developer presents eight progressive challenges (C# & Python) that teach Azure AI Foundry, plugin auto-calling, RAG, and multi-agent workflows, serving as a deeper-dive companion to the beginner course. [GitHub](https://github.com/microsoft/ai-developer)
+
+  **Agent Innovator Lab** – https://github.com/Azure/agent-innovator-lab provides modular Azure-centric labs on agentic RAG, evaluation, and optimization design patterns, making it ideal for teams refining real-world agent architectures. [GitHub](https://github.com/Azure/agent-innovator-lab)
+
+  **Azure AI Agents Labs** – https://github.com/Azure/azure-ai-agents-labs contains notebook-style labs that showcase the brand-new Azure AI Agent Service SDK + Semantic Kernel working together, guiding you from a single tool-calling agent to a full multi-agent system. [GitHub](https://github.com/Azure/azure-ai-agents-labs)

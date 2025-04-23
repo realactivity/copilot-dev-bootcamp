@@ -14,6 +14,8 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 *"The future of healthcare isn't just about coding solutions—it's about orchestrating intelligence."* -pswider
 
+
+
 ## Upcoming Workshops and Conference Sessions
 
 **Event Tickets:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
