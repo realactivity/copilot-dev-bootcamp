@@ -15,9 +15,9 @@ As a hands-on enterprise developer, I’ll take you on a fast, code-first tour o
 
 **Location:** Boston, Massachusetts, United States
 
-***[5/1/2025 AI Agent workshop setup instructions](reporundown.md )*** 
+***[5/1/2025 AI Agent workshop setup instructions](repo-rundown.md )*** 
 
-
+**Pro Tip:** *Aim your favorite LLM at this repo—let it ingest the patterns, then come to the workshop ready to debate architecture choices with data in hand.*
 
 ## About the Presenter
 
@@ -64,7 +64,7 @@ As founder of the Boston Healthcare Cloud and AI Community (2020), I've dedicate
 ### Presentation Materials
 
 - [Session Slides]() *(Will be updated after the presentation)*
-- ***[5/1/2025 AI Agent workshop setup instructions](reporundown.md )*** 
+- ***[5/1/2025 AI Agent workshop setup instructions](repo-rundown.md )*** 
 
 ### Workshop Research and Preparation - New for 2025
 

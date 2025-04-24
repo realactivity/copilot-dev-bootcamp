@@ -35,7 +35,7 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 ### **Quick Links**
 
 - Session Details and Setup - [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
-  - ***[5/1/2025 AI agent repo rundown, lab setups and preparation](reporundown.md )*** 
+  - ***[5/1/2025 AI agent repo rundown, lab setups and preparation](repo-rundown.md )*** 
 
 - Paul Swider - [AI Brief for Healthcare Leadership - Substack](https://substack.com/@pauljswider)
 - Paul Swider - [AI Brief for Health Executives - LinkedIn]([(18) LinkedIn](https://www.linkedin.com/newsletters/ai-brief-for-health-executives-6982384712858140672/))
