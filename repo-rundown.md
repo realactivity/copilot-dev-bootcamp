@@ -87,3 +87,11 @@ That’s it—you’re ready to code when the workshop clock starts!
 | **3:45 – 3:55 PM** | Production & Responsible AI                     | Slides             | Content filters, eval harnesses, observability; patterns from Magnetic-One & Bootcamp notes [GitHub](https://github.com/realactivity/copilot-dev-bootcamp/blob/main/nextgenagents-cai.md) |
 | **3:55 – 4:00 PM** | Wrap-Up & Next Steps                            | Discussion         | Share GitHub starter branch, slides, Discord link, feedback QR |
 
+#### Extra Credit Bonus:
+
+**Additional Labs**
+
+[Expert Level Lab - Running LLM Locally](expertlab-phi-3.md)
+
+[Expert Level Lab - Azure AI Agent Service](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop)
+
