@@ -18,7 +18,15 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 ## Upcoming Workshops and Conference Sessions
 
-**Event Tickets:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
+##### aMP Boston Healthcare Leadership Day June 2025
+
+- [aMP Event Linktree](https://linktr.ee/aMPBoston)
+- [aMP Sessions and Storyline](aMPBoston2025Agenda.md)
+- [aMP Event Shared Resources](aMPBoston2025Resources.md)
+
+
+
+**Past Events:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
 
 **Session Details:** [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
 
