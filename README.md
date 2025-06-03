@@ -24,7 +24,7 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 - [aMP Sessions and Storyline](aMPBoston2025Agenda.md)
 - [aMP Event Shared Resources](aMPBoston2025Resources.md)
 
-
+------
 
 **Past Events:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
 
