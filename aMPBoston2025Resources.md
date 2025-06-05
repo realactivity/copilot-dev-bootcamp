@@ -10,6 +10,7 @@ Microsoft and its ecosystem partners are bringing enterprise‐grade cloud, data
 
 ------
 
+- [**Microsoft Dragon Copilot**](https://techcommunity.microsoft.com/blog/healthcareandlifesciencesblog/a-deeper-look-at-microsoft-dragon-copilot-transforming-clinical-workflow-with-ai/4389496) -  AI assistant for clinical workflow (The most meaningful work in Healthcare GenAI to date)
 - **[Microsoft Cloud for Healthcare](https://www.microsoft.com/en-us/industry/health/microsoft-cloud-for-healthcare)** – End-to-end, secure cloud foundation that unifies patient engagement, care-team collaboration, and operational analytics.
 - **[Healthcare Agent Service (Azure Health Bot)](https://learn.microsoft.com/en-us/azure/health-bot/overview)** – HIPAA-ready, generative-AI platform for building virtual health assistants and task-orchestrating “copilots.”
 - **[Fabric Healthcare Data Solutions](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/overview)** – Turns diverse clinical, imaging, and genomic data into governed, analytics-ready datasets—fuel for AI.
