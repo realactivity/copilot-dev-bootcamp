@@ -3,8 +3,6 @@
 As a hands-on enterprise developer, I’ll take you on a fast, code-first tour of what separates real agents from garden-variety functions. We’ll crack open the architecture that lets them reason, measure that intelligence with hard metrics, then wire up semantic-aware functions that pick the right tools and recover gracefully when things get weird. We’ll bolt on true memory, short-term context for snappy conversations and long-term state for constant self-improvement, and inject Microsoft’s latest research, from AutoGen’s swarming agents to Magnetic-One’s rock-solid enterprise patterns. By the end, you’ll have a blueprint you can push straight into Azure and the confidence to future-proof whatever you build next.
 
 ## Session Details
-**Event Tickets:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
-
 **Format:** In-person technical half-day workshop
 
 **Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents
@@ -15,7 +13,7 @@ As a hands-on enterprise developer, I’ll take you on a fast, code-first tour o
 
 **Location:** Boston, Massachusetts, United States
 
-***[5/1/2025 AI Agent workshop setup instructions](repo-rundown.md )*** 
+***[7/29/2025 NYC AI Agent workshop setup instructions](repo-rundown.md )*** 
 
 **Pro Tip:** *Aim your favorite LLM at this repo—let it ingest the patterns, then come to the workshop ready to debate architecture choices with data in hand.*
 

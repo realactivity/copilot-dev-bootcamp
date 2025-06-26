@@ -1,9 +1,10 @@
-# From Code to Intelligence – Building NextGen AI Agents
+# From Code to Intelligence
 
-This developer-focused session builds on last year's "Introduction to Semantic Kernel" presentation, taking you deeper into the world of intelligent, adaptive AI agents. Learn how to transform basic functions into semantically-aware systems that can reason, remember, and evolve through interactions.
+### Building NextGen AI Agents
+
+This developer-focused session builds on last year's "Introduction to Semantic Kernel" presentation, taking you deeper into the world of intelligent, adaptive AI agents. Learn how to transform basic functions into semantically-aware systems that can reason, remember, and evolve through interactions. Healthcare theme, but applicable to all industries.
 
 ## Session Details
-**Event:** [Boston Code Camp 38](https://www.bostoncodecamp.com/CC38/info)  
 **Format:** In-person technical presentation  
 **Focus:** Developer-oriented, hands-on approaches to building enterprise-grade AI agents  
 **Prerequisites:** Basic understanding of AI concepts and programming fundamentals  
@@ -14,7 +15,7 @@ This developer-focused session builds on last year's "Introduction to Semantic K
 
 ## About the Presenter
 
-A technology leader with over 25 years of experience, specializing in healthcare technology innovation and AI applications. My journey began in 1998 with critical healthcare projects, including pioneering one of the earliest mission-critical AI applications for same-day surgery triage in 2001.
+A technology leader with over 30 years of experience, specializing in healthcare technology innovation and AI applications. My journey began in 1998 with critical healthcare projects, including pioneering one of the earliest mission-critical AI applications for same-day surgery triage in 2001.
 
 As founder of the Boston Healthcare Cloud and AI Community (2020), I've dedicated my career to advancing AI and cloud solutions for healthcare. My work has been recognized with Microsoft's Azure MVP (2019) and Azure Most Influential (2020) awards.
 
