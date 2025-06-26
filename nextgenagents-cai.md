@@ -66,45 +66,50 @@ As founder of the Boston Healthcare Cloud and AI Community (2020), I've dedicate
 
 ### Workshop Research and Advanced Reading- New for 2025
 
-- [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+[Semantic Kernel Documentation](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
-- [Microsoft AutoGen Project](https://microsoft.github.io/autogen/)
+[Microsoft AutoGen Project](https://microsoft.github.io/autogen/)
 
-- [Cursor IDE](https://learn-cursor.com/en/wiki/user-guide/install)
+[Cursor IDE](https://learn-cursor.com/en/wiki/user-guide/install)
 
-- [GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/3-how-to-get-started)
+[GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/3-how-to-get-started)
 
-- ([Boston Healthcare Cloud & AI Community | Linktree](https://linktr.ee/BOSHUG))
+([Boston Healthcare Cloud & AI Community | Linktree](https://linktr.ee/BOSHUG))
 
-- **AI Agents for Beginners** – https://github.com/microsoft/ai-agents-for-beginners offers a 10-lesson, clone-and-run curriculum that walks you from first prompt to multi-agent RAG patterns, making it the fastest on-ramp to Microsoft-flavoured enterprise agents. [GitHub](https://github.com/microsoft/ai-agents-for-beginners/blob/main/README.md)
+**Enterprise AI and Agents for Developers**
 
-- **Generative AI for Beginners (.NET)** – https://github.com/microsoft/Generative-AI-for-beginners-dotnet distills hands-on C# examples and MCP/Semantic-Kernel integrations into bite-sized lessons so .NET developers can embed LLM power without leaving their comfort zone. [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/blob/main/README.md)
+- [**AI Agents for Beginners**](https://github.com/microsoft/ai-agents-for-beginners) offers a 10-lesson, clone-and-run curriculum that walks you from first prompt to multi-agent RAG patterns, making it the fastest on-ramp to Microsoft-flavoured enterprise agents.
+- [**Generative AI for Beginners (.NET)**](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) distills hands-on C# examples and MCP/Semantic-Kernel integrations into bite-sized lessons so .NET developers can embed LLM power without leaving their comfort zone.
+- [**AI Agents Hackathon**](https://github.com/microsoft/AI_Agents_Hackathon) bundles slides, code starters, and session replays from Microsoft’s three-week virtual hack, giving you community-tested blueprints (and prize-winning ideas) for building production-ready agents.
+- [**Magma**](https://github.com/microsoft/Magma) open-sources Microsoft Research’s multimodal foundation model that lets agents see, plan, and act across images, video, and text—crucial for the next wave of perceptive enterprise agents.
+- [**AI Developer (Semantic Kernel Fundamentals)**](https://github.com/microsoft/ai-developer) presents eight progressive challenges (C# & Python) that teach Azure AI Foundry, plugin auto-calling, RAG, and multi-agent workflows, serving as a deeper-dive companion to the beginner course.
+- [**Agent Innovator Lab**](https://github.com/Azure/agent-innovator-lab) provides modular Azure-centric labs on agentic RAG, evaluation, and optimization design patterns, making it ideal for teams refining real-world agent architectures.
+- [**Azure AI Agents Labs**](https://github.com/Azure/azure-ai-agents-labs) contains notebook-style labs that showcase the brand-new Azure AI Agent Service SDK + Semantic Kernel working together, guiding you from a single tool-calling agent to a full multi-agent system.
+- [**Azure Health Bot**](https://learn.microsoft.com/en-us/azure/health-bot/) is Microsoft’s low-code, compliance-ready platform for building AI-driven virtual health assistants that can triage, educate, and escalate across healthcare workflows.
+- [**SK Agents Framework RC1**](https://devblogs.microsoft.com/semantic-kernel/release-the-agents-sk-agents-framework-rc1/) introduces the first release candidate of the Semantic Kernel Agents Framework, enabling advanced agent orchestration, memory, and planning via Microsoft’s official SDK.
+- [**AutoAuth Solution Accelerator**](https://github.com/Azure-Samples/autoauth-solution-accelerator) offers a turnkey sample for integrating secure, automated authentication in Azure-hosted apps, ideal for regulated or enterprise scenarios.
+- [**Cursor Install Guide**](https://learn-cursor.com/en/wiki/user-guide/install) walks developers through installing Cursor, a next-gen AI coding assistant IDE designed to optimize productivity across multi-agent workflows.
+- [**Getting Started with GitHub Copilot for Enterprise**](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/3-how-to-get-started) is an official Microsoft Learn module to onboard teams to GitHub Copilot Enterprise, covering policy setup, integration, and initial usage.
+- [**MCP-Go Example (Everything)**](https://github.com/mark3labs/mcp-go/blob/main/examples/everything/main.go) showcases a full-featured Go-based implementation of the Model Context Protocol (MCP), useful for understanding message orchestration in AI agents.
+- [**Build a Model Context Protocol (MCP) Server in C#**](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/) is a detailed walkthrough from the .NET team on building an MCP-compliant server in C#, illustrating key concepts of stateful AI orchestration.
+- [**AzureChat**](https://github.com/microsoft/azurechat) is a Microsoft-built reference app that demonstrates real-time chat using Azure OpenAI, SignalR, and Cognitive Search, designed as a production-grade Copilot pattern.
 
-  **AI Agents Hackathon** – https://github.com/microsoft/AI_Agents_Hackathon bundles slides, code starters, and session replays from Microsoft’s three-week virtual hack, giving you community-tested blueprints (and prize-winning ideas) for building production-ready agents. [GitHub](https://github.com/microsoft/AI_Agents_Hackathon/blob/main/README.md)
+------
 
-  **Magma** – https://github.com/microsoft/Magma open-sources Microsoft Research’s multimodal foundation model that lets agents see, plan, and act across images, video, and text—crucial for the next wave of perceptive enterprise agents. [GitHub](https://github.com/microsoft/Magma)
+### **Security, Observability & Evaluation for Agents**
 
-  **AI Developer (Semantic Kernel Fundamentals)** – https://github.com/microsoft/ai-developer presents eight progressive challenges (C# & Python) that teach Azure AI Foundry, plugin auto-calling, RAG, and multi-agent workflows, serving as a deeper-dive companion to the beginner course. [GitHub](https://github.com/microsoft/ai-developer)
-
-  **Agent Innovator Lab** – https://github.com/Azure/agent-innovator-lab provides modular Azure-centric labs on agentic RAG, evaluation, and optimization design patterns, making it ideal for teams refining real-world agent architectures. [GitHub](https://github.com/Azure/agent-innovator-lab)
-
-  **Azure AI Agents Labs** – https://github.com/Azure/azure-ai-agents-labs contains notebook-style labs that showcase the brand-new Azure AI Agent Service SDK + Semantic Kernel working together, guiding you from a single tool-calling agent to a full multi-agent system. [GitHub](https://github.com/Azure/azure-ai-agents-labs)
-
-  **Azure Health Bot** – https://learn.microsoft.com/en-us/azure/health-bot/ is Microsoft’s low-code, compliance-ready platform for building AI-driven virtual health assistants that can triage, educate, and escalate across healthcare workflows. [Docs](https://learn.microsoft.com/en-us/azure/health-bot/)
-
-  **SK Agents Framework RC1** – https://devblogs.microsoft.com/semantic-kernel/release-the-agents-sk-agents-framework-rc1/ introduces the first release candidate of the Semantic Kernel Agents Framework, enabling advanced agent orchestration, memory, and planning via Microsoft’s official SDK. [Blog](https://devblogs.microsoft.com/semantic-kernel/release-the-agents-sk-agents-framework-rc1/)
-
-  **AutoAuth Solution Accelerator** – https://github.com/Azure-Samples/autoauth-solution-accelerator offers a turnkey sample for integrating secure, automated authentication in Azure-hosted apps, ideal for regulated or enterprise scenarios. [GitHub](https://github.com/Azure-Samples/autoauth-solution-accelerator)
-
-  **Cursor Install Guide** – https://learn-cursor.com/en/wiki/user-guide/install walks developers through installing Cursor, a next-gen AI coding assistant IDE designed to optimize productivity across multi-agent workflows. [Guide](https://learn-cursor.com/en/wiki/user-guide/install)
-
-  **Getting Started with GitHub Copilot for Enterprise** – https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/3-how-to-get-started is an official Microsoft Learn module to onboard teams to GitHub Copilot Enterprise, covering policy setup, integration, and initial usage. [Module](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/3-how-to-get-started)
-
-  **MCP-Go Example (Everything)** – https://github.com/mark3labs/mcp-go/blob/main/examples/everything/main.go showcases a full-featured Go-based implementation of the Model Context Protocol (MCP), useful for understanding message orchestration in AI agents. [GitHub](https://github.com/mark3labs/mcp-go/blob/main/examples/everything/main.go)
-
-  **Build a Model Context Protocol (MCP) Server in C#** – https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/ is a detailed walkthrough from the .NET team on building an MCP-compliant server in C#, illustrating key concepts of stateful AI orchestration. [Blog](https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/)
-
-  **AzureChat** – https://github.com/microsoft/azurechat is a Microsoft-built reference app that demonstrates real-time chat using Azure OpenAI, SignalR, and Cognitive Search, designed as a production-grade Copilot pattern. [GitHub](https://github.com/microsoft/azurechat)
+- [**Observability in Generative AI with Azure AI Foundry**](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability)
+   Covers end-to-end observability for agent workflows, including quality monitoring, dashboards, and integration with Application Insights.
+- [**Tracing Agents with Azure AI Foundry**](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/concepts/tracing)
+   Introduces detailed runtime tracing of AI agent executions using OpenTelemetry and Foundry’s built-in tools.
+- [**Monitor Your Generative AI Applications**](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications)
+   How-to guide for setting up observability using Azure Monitor and Application Insights.
+- [**Continuous Evaluation for AI Agents**](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/continuous-evaluation-agents)
+   Explains live sampling and evaluation of AI agent interactions to assess quality and safety.
+- [**Evaluate AI Agents Locally (Preview)**](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/agent-evaluate-sdk)
+   Covers use of Azure’s Evaluation SDK for local testing of AI agent workflows.
+- [**Run Cloud Evaluations with Azure AI Projects SDK (Preview)**](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/cloud-evaluation)
+   Describes large-scale evaluation of agents/models in the cloud with SDK-based logging.
 
 ### Questions & Feedback
 
