@@ -18,15 +18,23 @@ This repo is your launchpad for designing **mission-critical Copilots and agenti
 
 ## Upcoming Workshops and Conference Sessions
 
-##### aMP Boston Healthcare Leadership Day June 2025
+##### Mexico City - Microsoft AgentCon Mexico City CDMX June 2025
 
-- [aMP Event Linktree](https://linktr.ee/aMPBoston)
-- [aMP Sessions and Storyline](aMPBoston2025Agenda.md)
-- [aMP Event Shared Resources](aMPBoston2025Resources.md)
+**Session Details:** [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
 
 ------
 
-**Past Events:** [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
+**Past Events:**
+
+##### aMP Boston Healthcare Leadership Day June 2025
+
+- [aMP Event Linktree](https://linktr.ee/aMPBoston)
+- [aMP Event Shared Resources](aMPBoston2025Resources.md)
+- [aMP Sessions and Storyline](aMPBoston2025Agenda.md)
+
+##### AICO Microsoft AI June 2025
+
+ [AI Community Conference – Boston](https://allevents.in/cambridge/ai-community-conference-boston/100001274004524829)
 
 **Session Details:** [From Code to Intelligence – Building NextGen AI Agents](nextgenagents-cai.md)
 
